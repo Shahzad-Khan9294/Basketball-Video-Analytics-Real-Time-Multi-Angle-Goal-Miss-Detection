@@ -1,4 +1,4 @@
-# Basketball-Video-Analytics-Real-Time-Multi-Angle-Goal-Miss-Detection
+# Multi-Angle-Goal-Miss-Detection - Basketball
 
 ## Basketball Goal Detection Pipeline:
 Implemented a basketball detection pipeline that classifies goals and missed shots using computer vision techniques on video frames from any basketball match. The pipeline focuses on the basketball net region as the ROI, extracts that patch, and accurately detects goals and misses with 98% accuracy.
